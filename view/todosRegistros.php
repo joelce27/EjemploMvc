@@ -4,10 +4,15 @@
         text-align: left;
         border: 2px solid blue;
         border-style:ridge;
+        background-color: #2348F0;
+        color: #ffffff;
     }
 
     td {
         width: 8rem;
+        border: 1px solid blue;
+        border-style:ridge;
+        background-color: azure;
     }
 </style>
 

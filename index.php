@@ -11,7 +11,7 @@ $controller = new CocheController;
 /*02 enruta cualquier petición URL, hacia controlador principal index.php  */
 $home="http://localhost/EjemploMvc/index.php/";
 // enruta una petición URL hacia un componente de petición
-echo "Ejemplo de los componetes de petición, <br> elija una opción y escríbala en la barra de direcciones del navegador:";
+echo "Ejemplo de los componentes de petición, <br> elija una opción y escríbala en la barra de direcciones del navegador:";
 echo "<br><pre>   ",$home;
 echo "<br>   ";
 echo "http://localhost/EjemploMvc/index.php/verRegistro/1</pre>";
